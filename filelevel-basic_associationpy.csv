@@ -1,0 +1,23 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,3,3,4,3,4,,"C: No mention of dependencies and main classes/fxs
+U: Requires you to know SQLalchemy, ORM and what a many-many relationship is.
+Read: Isn’t well separated from Docstring",File
+ChatGPT,2,5,4,3,5,5,"A: Doesn’t mention anything about illustrating many-many relationship
+U: Inaccuracy affects correct understanding. ",File
+GPT4,2,4,4,3,4,27,"A: Doesn’t mention anything about illustrating many-many relationship
+C: Lacks mention of classes/fxs
+U: Inaccuracy affects understandability. 
+Read: Presence of horizontal scrolling",File
+Bard,2,4,4,3,4,10,"Gave documentation in plain-text.
+A: Doesn’t mention anything about illustrating many-many relationship
+C: Doesn’t mention dependencies
+U: Inaccuracy affects understandability. 
+Read: Presence of horizontal scrolling",File
+LLama2,2,5,4,4,4,21,"A: Doesn’t mention anything about illustrating many-many relationship
+U: Inaccuracy affects understandability. 
+Read: Uses single-line commenting making it hard to distinguish from inline-comments",File
+StarChat,2,3,3,2,4,39,"Created file-level, function level and in-line comments. Edited the code to create a main class. 
+A: Doesn’t mention anything about illustrating many-many relationship
+C: Doesn’t mention dependencies and nothing extra.
+U: Inaccuracy affects understandability and definitions are very vague or less.
+Read: Lack of indentation for easier readability.",File

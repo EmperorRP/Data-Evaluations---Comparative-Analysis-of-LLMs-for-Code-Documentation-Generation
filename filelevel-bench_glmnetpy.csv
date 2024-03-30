@@ -1,0 +1,19 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,3,4,4,3,5,,"C: Functions arent mentioned.
+U: Could explain why only 10% info is useful.
+",File
+ChatGPT,3,4,3,3,4,6,"C: Functions arent mentioned.
+Rel: Types of benchmarking arent mentioned in the description but in notes. 
+U: Structure of documentation is hard to understand from.
+Read: Presence of hori scrolling.",File
+GPT4,3,5,4,4,4,38,Read: Presence of hori scrolling,File
+Bard,3,3,4,3,5,10,"C: Lack of dependencies and mention of fxs.
+U: A newbie wouldnt know RMSE, regression or methods like that. 
+",File
+LLama2,3,4,4,3,4,2,"Generated documentation in plain-text. 
+C: Lack of mention of fxs
+U: Would be nice for an indepth explanation of methods used
+Read: Hori scrolling",File
+StarChat,3,3,4,3,3,12,"C: Lack of mention of fxs, and dependencies.
+U: Could do with explaining statistical meaures
+Read: Absence of consistent identation, presence of hori scrolling.",File

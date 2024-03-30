@@ -1,0 +1,7 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,3,5,4,4,5,,,inline
+ChatGPT,3,5,4,4,5,12.5,,inline
+GPT4,3,5,4,4,5,75,,inline
+Bard,3,5,4,4,5,20,,inline
+LLama2,3,5,4,4,5,33,,inline
+StarChat,3,5,4,4,5,25,,inline

@@ -1,0 +1,11 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,3,,,,,,,function
+ChatGPT,3,5,4,3,5,6.15,U: Doesn’t mention the lack of primary keys as seen by other models which state something along the lines of “flushing without primary keys”,function
+GPT4,3,5,4,4,5,40.6,,function
+Bard,3,4,4,4,5,9.31,C: Lacks additional notes/warnings,function
+LLama2,3,4,3,3,5,15.65,"C: Lacks additional notes/warnings
+Rel: Includes key details important to understand the function
+U:  The concepts are easy to grasp but it is not particularly extremely clear and easy to understand unless familar with the topic",function
+StarChat,3,4,3,3,5,,"C: Lacks additional notes/warnings
+Rel: Includes key details important to understand the function
+U:  The concepts are easy to grasp but it is not particularly extremely clear and easy to understand unless familar with the topic",function

@@ -1,0 +1,12 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,3,4,4,3,5,,"C: No further notes mentioned
+U: Unfamiliar people may take more time and not be able to understand easily",function
+ChatGPT,3,5,4,4,5,7.23,,function
+GPT4,3,5,4,4,5,29.3,,function
+Bard,3,4,4,3,5,7.5,"C: No further notes mentioned
+U: Unfamiliar people may take more time and not be able to understand easily",function
+LLama2,3,4,4,3,5,32.1,"C: No further notes mentioned
+U: Unfamiliar people may take more time and not be able to understand easily",function
+StarChat,3,4,3,3,5,,"C: No further notes mentioned
+U: Unfamiliar people may take more time and not be able to understand easily
+Rel: Mostly relevant but not every piece of information important to understanding was mentioned",function

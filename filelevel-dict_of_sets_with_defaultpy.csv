@@ -1,0 +1,20 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,3,3,4,2,4,,"C: No mention of classes and fxs in file and dependencies. 
+U: Requires knowledge of sqlalchemy and python to understand the highly technical language. 
+Read: Barely any line breaks and starts along with the docstring.",File
+ChatGPT,3,5,4,3,4,5,"U: Someone who doesnt understand sqlalchemy will find it hard to understand the classes with just this documentation
+Read: Requires hroizontal scrolling",File
+GPT4,3,5,4,4,5,53,,File
+Bard,3,5,4,4,3,12,Read: Presence of horizontal scrolling and absence of spacing between sections.,File
+LLama2,2,1,2,1,3,3,"Edited and provided the entire code with in-line comments as well.
+A: Correct description but lacking any information. 
+C: Lack of dependencies, usage details, mention of classes/fxs, and anything extra. 
+Rel: Relevant but heavily lacking information
+U: Can only be understood by someone who has extensive knowledge of sqlalchemy.
+Read: No line spacing, no clear delineation.",File
+StarChat,2,1,3,2,3,11,"Started with multi-level comment for python, but did not close it. 
+A: Link to guide is outdated.
+C: Lack of dependencies, how the script is used, mention of classes and fxs and nothing extra. 
+Rel: Gives an unnecessary inspirational note. 
+U: Hard to understand for those who have no knowledge of sqlalchemy or the technical jargon used. 
+Read: Lack of sections, and presence of horizontal scrolling. ",File

@@ -1,0 +1,11 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,3,3,4,3,0,,"Documentation was in the form of Markdown file. 
+C: No mention of dependencies or classes/fxs. 
+U: Might be hard to understand for an entire beginner.
+Read: Was in Markdown file so cannot judge readability. ",File
+ChatGPT,3,5,4,4,4,11,Read: Horizontal scrolling is present.,File
+GPT4,3,4,4,4,4,27,"C: Doesn’t mention present classes/fxs.
+",File
+Bard,,,,,,14,Entire documentation was provided in plain-text.,File
+LLama2,,,,,,31,Entire documentation was in plain-text.,File
+StarChat,,,,,,14,Provided a template for file-level documentation instead of actual documentation.,File

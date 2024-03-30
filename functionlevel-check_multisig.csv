@@ -1,0 +1,10 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,2,1,4,4,4,,"A: Doesn’t exactly explain what the function does, only warning stated
+C: The description of the function’s purpose is unclear, no parameters described, no exceptions
+Rea: No docstring used, instead # used which is not recommended for multiline comment",function
+ChatGPT,3,4,4,4,5,8.2,C: No additional notes/warnings,function
+GPT4,3,5,4,4,4,57.7,"Rea: No docstring used, instead # used which is not recommended for multiline comment",function
+Bard,3,4,4,4,5,13,C: No additional notes/warnings,function
+LLama2,3,4,4,3,5,31,"C: No additional notes/warnings
+U: Could include more information in the description",function
+StarChat,3,4,4,4,5,15,C: No additional notes/warnings,function

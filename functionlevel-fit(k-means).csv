@@ -1,0 +1,7 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,3,4,4,4,5,,C: Return values unexplained,function
+ChatGPT,3,5,4,4,5,13.2,,function
+GPT4,3,5,4,4,5,44.17,,function
+Bard,3,4,4,4,5,8.2,"C: No additional notes/warnings ",function
+LLama2,3,5,4,4,5,41,,function
+StarChat,3,4,4,4,5,,"C: No additional notes/warnings ",function

@@ -1,0 +1,7 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,3,5,4,4,5,,,inline
+ChatGPT,3,5,4,4,5,6.5,,inline
+GPT4,3,5,4,4,5,37,,inline
+Bard,3,5,4,4,4,26.4,Rea: Comments should ideally be placed before the code sample rather than after,inline
+LLama2,3,5,4,4,5,47,,inline
+StarChat,3,5,4,4,4,,Rea: Comments are enclosed in triple quotes when instead it is preferable to have them using # since they are mostly single line comments,inline

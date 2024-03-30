@@ -1,0 +1,7 @@
+﻿Model,Accuracy,Completeness,Relevance,Understandability,Readability,Time Taken(sec),Notes,Level
+Original,3,5,4,4,5,,,inline
+ChatGPT,3,5,4,4,5,11.6,,inline
+GPT4,3,5,4,4,5,56.4,,inline
+Bard,,,,,,37.2,,inline
+LLama2,3,5,4,4,5,34.2,,inline
+StarChat,3,1,4,4,5,33.5,C: Complex lines of code missing comments ,inline
